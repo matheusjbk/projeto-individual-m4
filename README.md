@@ -1,6 +1,10 @@
 # Projeto Individual Módulo 4
 Projeto do Curso da Resilia em parceria com o Senac.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/113534686/217533640-ed4a91ab-47b6-49ed-a043-3bf445450788.png" width="700px"/>
+</div>
+
 Foi proposta a criação de uma modelagem de dados com três tabelas pré-existentes e teríamos que determinar os atributos dessas tabelas e também determinar se seria necessário a criação de novas tabelas.
 
 Perguntas a serem respondidas:
